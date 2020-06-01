@@ -2,6 +2,12 @@
 
 ---
 
+create a docusaurusv2 project
+```
+npx @docusaurus/init@next init vacantthinker.example.docusaurus.v2 classic
+
+```
+
 package.json
 ```
   "scripts": {
